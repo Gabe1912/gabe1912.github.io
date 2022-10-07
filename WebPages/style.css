@@ -1,0 +1,76 @@
+.photos {
+    text-align: center;
+}
+body{
+    background-color:rgb(254, 166, 210);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+h1{
+    color:darkmagenta;
+    font-size: 25mm;
+    margin-top: 1mm;
+    margin-bottom: 1mm;
+    border: 2.5mm;
+    border-style: double;
+    border-radius: 10mm;
+    border-width: 5mm;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2{
+    color: darkorchid;
+    font-size: 10mm;
+    margin-top: 1mm;
+    margin-bottom: 1mm;
+}
+h3{
+    color: darkorchid;
+    font-size: 7.5mm;
+    margin-top: 1mm;
+    margin-bottom: 1mm;
+}
+p{
+    color: darkred;
+}
+li{
+    color: darkred;
+    margin-top: 1mm;
+    margin-bottom: 1mm;
+}
+
+.links{
+    font-size: 5mm;
+}
+.contents{
+    font-size: 8.5mm;
+}
+
+
+button {
+    background-color: hotpink;
+    border: 2px solid darkred;
+    border-radius: 10px;
+    color: darkred;
+    padding: 8px;
+    font-size: 7.5mm;
+  }
+  button:hover{
+    background-color: hotpink;
+    border: 2px solid darkred;
+    border-radius: 10px;
+    color: darkred;
+    padding: 20px;
+    font-size: 7.5mm;
+  }
+
+  a{
+    color:purple;
+    font-weight: 900;
+  }
+
+
+.Footer{
+    text-align: center;
+    margin-top: 25mm;
+}
