@@ -1,76 +1,83 @@
-.photos {
-    text-align: center;
-}
-body{
-    background-color:rgb(254, 166, 210);
-    font-family: 'Times New Roman', Times, serif;
-    
-}
-h1{
-    color:darkmagenta;
-    font-size: 25mm;
-    margin-top: 1mm;
-    margin-bottom: 1mm;
-    border: 2.5mm;
-    border-style: double;
-    border-radius: 10mm;
-    border-width: 5mm;
-    text-align: center;
-    text-transform: uppercase;
-}
-h2{
-    color: darkorchid;
-    font-size: 10mm;
-    margin-top: 1mm;
-    margin-bottom: 1mm;
-}
-h3{
-    color: darkorchid;
-    font-size: 7.5mm;
-    margin-top: 1mm;
-    margin-bottom: 1mm;
-}
-p{
-    color: darkred;
-}
-li{
-    color: darkred;
-    margin-top: 1mm;
-    margin-bottom: 1mm;
+.images {
+	text-align: center;
 }
 
-.links{
-    font-size: 5mm;
+.icon {
+	text-align: left;
 }
-.contents{
-    font-size: 8.5mm;
+body {
+	background-image: url("images/wallpaper.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: "Times New Roman", Times, serif;
+}
+.header h1 {
+	color: rgb(85, 0, 141);
+	font-size: 20mm;
+	margin-top: 1mm;
+	margin-bottom: 1mm;
+	text-align: left;
+	text-transform: uppercase;
+}
+.header img {
+	width: 40mm;
+	height: 40mm;
+	text-align: left;
+}
+h2 {
+	color: rgb(255, 255, 255);
+	font-size: 10mm;
+	margin-top: 1mm;
+	margin-bottom: 1mm;
+	text-transform: uppercase;
+}
+h3 {
+	color: rgb(255, 255, 255);
+	font-size: 7.5mm;
+	margin-top: 1mm;
+	margin-bottom: 1mm;
+	text-transform: uppercase;
+}
+p {
+	color: rgb(255, 255, 255);
+}
+li {
+	color: rgb(255, 255, 255);
+	margin-top: 1mm;
+	margin-bottom: 1mm;
 }
 
+.links {
+	font-size: 5mm;
+}
+.contents {
+	font-size: 8.5mm;
+}
 
 button {
-    background-color: hotpink;
-    border: 2px solid darkred;
-    border-radius: 10px;
-    color: darkred;
-    padding: 8px;
-    font-size: 7.5mm;
-  }
-  button:hover{
-    background-color: hotpink;
-    border: 2px solid darkred;
-    border-radius: 10px;
-    color: darkred;
-    padding: 20px;
-    font-size: 7.5mm;
-  }
+	background-color: hotpink;
+	color: rgb(85, 0, 141);
+	border-radius: 10px;
+	color: darkred;
+	padding: 8px;
+	font-size: 7.5mm;
+}
+button:hover {
+	background-color: rgb(85, 0, 141);
+	color: hotpink;
+	border-radius: 10px;
+	color: darkred;
+	padding: 20px;
+	font-size: 7.5mm;
+}
 
-  a{
-    color:purple;
-    font-weight: 900;
-  }
+a {
+	color: rgb(255, 255, 255);
+	font-weight: 900;
+}
 
-
-.Footer{
-    text-align: center;
-    margin-top: 25mm;
+.Footer {
+	border-style: dashed;
+	text-align: center;
+	margin-top: 25mm;
 }
