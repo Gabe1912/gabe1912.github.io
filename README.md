@@ -1,1 +1,1 @@
-Welcome to my website! Chances are no one is going to see this but me, but if you do then welcome. I'm Gabe. I made this site just to play around with HTML and CSS for now so it's nothing special. I know my website isn't much, but I hope you enjoy it.
+This is the repo for my website, which I've created to faf on with HTML and CSS.
