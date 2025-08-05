@@ -6,7 +6,8 @@
 	text-align: left;
 }
 body {
-	background-image: url("images/wallpaper.jpg");
+	background-color: gray;
+	/* background-image: url("images/wallpaper.jpg"); */
 	background-repeat: no-repeat;
 	background-size: cover;
 	font-family: "Times New Roman", Times, serif;
