@@ -12,11 +12,28 @@ body {
 	background-size: cover;
 	font-family: "Times New Roman", Times, serif;
 }
-.header h1 {
+.container {
+	overflow: auto;
+}
+.container img {
+	float: left;
+	width: 20mm;
+	height: 20mm;
+}
+.container h1 {
 	color: #ffffff;
-	font-size: 20mm;
+	font-size: 12.5mm;
 	margin-top: 1mm;
 	margin-bottom: 1mm;
+	text-align: left;
+	text-transform: uppercase;
+	display: inline;
+}
+/* .header h1 {
+	color: #ffffff;
+	font-size: 15mm;
+	margin-top: 5mm;
+	margin-bottom: 5mm;
 	text-align: left;
 	text-transform: uppercase;
 }
@@ -25,6 +42,7 @@ body {
 	height: 45mm;
 	text-align: left;
 }
+	*/
 h2 {
 	color: #ffffff;
 	font-size: 10mm;
@@ -54,7 +72,7 @@ li {
 .contents {
 	font-size: 8.5mm;
 }
-
+/*
 button {
 	color: rgb(255, 255, 255);
 	border-radius: 10px;
@@ -69,17 +87,15 @@ button:hover {
 	padding: 20px;
 	font-size: 7.5mm;
 }
+	*/
 .btn-group button {
 	background-color: #8076a3; /* Same as standard background */
 	border: 1px solid #8076a3; /* Same as standard background */
+	margin-inline-start: 10mm;
 	color: #ffffff; /* White text */
 	padding: 15px 100px; /* Some padding */
 	cursor: pointer; /* Pointer/hand icon */
 	float: left; /* Float the buttons side by side */
-}
-
-.btn-group button:not(:last-child) {
-	border-right: none; /* Prevent double borders */
 }
 
 /* Clear floats (clearfix hack) */
