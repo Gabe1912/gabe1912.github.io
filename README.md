@@ -16,7 +16,7 @@ ex. [@Gabe1912](https://github.com/Gabe1912)
 - 0.3
   - 05/08/25
   - Refresh of the site, making it a bit more fresh
-  - See [commit change]() or See [release history]()
+  - See [commit change](https://github.com/Gabe1912/gabe1912.github.io/commit/bcb83f90e6c60d51e8e2f63ed9a5e1e74470fb9c) or See [release history](https://github.com/Gabe1912/gabe1912.github.io/releases)
 - 0.2
   - 07/05/23
   - Made General Changes
