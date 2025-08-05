@@ -39,3 +39,4 @@ Here are acknowledgements from wherever I have borrowed code, and sites I have u
 
 - [README-Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
 - [50 Beautiful Website Color Schemes & CSS Hex Codes (2025)](https://hookagency.com/blog/website-color-schemes-2020)
+- [Social Media Icons](https://www.flaticon.com/free-icons/social-media)
