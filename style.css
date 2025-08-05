@@ -20,29 +20,16 @@ body {
 	width: 20mm;
 	height: 20mm;
 }
-.container h1 {
+
+h1 {
 	color: #ffffff;
 	font-size: 12.5mm;
-	margin-top: 1mm;
-	margin-bottom: 1mm;
-	text-align: left;
-	text-transform: uppercase;
-	display: inline;
-}
-/* .header h1 {
-	color: #ffffff;
-	font-size: 15mm;
 	margin-top: 5mm;
 	margin-bottom: 5mm;
 	text-align: left;
 	text-transform: uppercase;
 }
-.header img {
-	width: 45mm;
-	height: 45mm;
-	text-align: left;
-}
-	*/
+
 h2 {
 	color: #ffffff;
 	font-size: 10mm;
@@ -72,22 +59,20 @@ li {
 .contents {
 	font-size: 8.5mm;
 }
-/*
+
 button {
-	color: rgb(255, 255, 255);
-	border-radius: 10px;
-	padding: 8px;
-	font-size: 7.5mm;
+	background-color: #8076a3; /* Same as standard background */
+	border: 1px solid #8076a3; /* Same as standard background */
+	margin-inline-start: 10mm;
+	color: #ffffff; /* White text */
+	padding: 15px 100px; /* Some padding */
+	cursor: pointer; /* Pointer/hand icon */
+	float: left; /* Float the buttons side by side */
 }
 button:hover {
-	background-color: rgb(85, 0, 141);
-	color: hotpink;
-	border-radius: 10px;
-	color: darkred;
-	padding: 20px;
-	font-size: 7.5mm;
+	background-color: #747885;
 }
-	*/
+
 .btn-group button {
 	background-color: #8076a3; /* Same as standard background */
 	border: 1px solid #8076a3; /* Same as standard background */
@@ -124,5 +109,6 @@ a {
 
 .Footer {
 	text-align: center;
+	color: #ffffff;
 	margin-top: 25mm;
 }
