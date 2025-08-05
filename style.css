@@ -6,7 +6,7 @@
 	text-align: left;
 }
 body {
-	background-color: #65008d;
+	background-color: #8076a3;
 	/* background-image: url("images/wallpaper.jpg"); */
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -26,24 +26,24 @@ body {
 	text-align: left;
 }
 h2 {
-	color: rgb(255, 255, 255);
+	color: #ffffff;
 	font-size: 10mm;
 	margin-top: 1mm;
 	margin-bottom: 1mm;
 	text-transform: uppercase;
 }
 h3 {
-	color: rgb(255, 255, 255);
+	color: #ffffff;
 	font-size: 7.5mm;
 	margin-top: 1mm;
 	margin-bottom: 1mm;
 	text-transform: uppercase;
 }
 p {
-	color: rgb(255, 255, 255);
+	color: #ffffff;
 }
 li {
-	color: rgb(255, 255, 255);
+	color: #ffffff;
 	margin-top: 1mm;
 	margin-bottom: 1mm;
 }
@@ -56,10 +56,8 @@ li {
 }
 
 button {
-	background-color: hotpink;
-	color: rgb(85, 0, 141);
+	color: rgb(255, 255, 255);
 	border-radius: 10px;
-	color: darkred;
 	padding: 8px;
 	font-size: 7.5mm;
 }
@@ -71,14 +69,44 @@ button:hover {
 	padding: 20px;
 	font-size: 7.5mm;
 }
+.btn-group button {
+	background-color: #8076a3; /* Same as standard background */
+	border: 1px solid #8076a3; /* Same as standard background */
+	color: #ffffff; /* White text */
+	padding: 15px 100px; /* Some padding */
+	cursor: pointer; /* Pointer/hand icon */
+	float: left; /* Float the buttons side by side */
+}
+
+.btn-group button:not(:last-child) {
+	border-right: none; /* Prevent double borders */
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+	background-color: #747885;
+}
 
 a {
-	color: rgb(255, 255, 255);
+	color: #ffffff;
 	font-weight: 900;
 }
 
+.line {
+	margin: 5px 0;
+	height: 2px;
+	background: repeating-linear-gradient(90deg, #000000 0 5px, #8076a3 0 7px);
+	/*5px red then 2px transparent -> repeat this!*/
+}
+
 .Footer {
-	border-style: dashed;
 	text-align: center;
 	margin-top: 25mm;
 }

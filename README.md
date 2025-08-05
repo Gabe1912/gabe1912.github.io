@@ -15,10 +15,8 @@ ex. [@Gabe1912](https://github.com/Gabe1912)
 
 - 0.3
   - 05/08/25
-  - Changed the background, as well as removed a button
-  - See [commit change](https://github.com/Gabe1912/gabe1912.github.io/commit/cbe87096b9c949814c7f5471498c48e2828d051d)
-  - Added and Updated README
-  - See [commit change](https://github.com/Gabe1912/gabe1912.github.io/commit/25efff25ac5ba2c81b40313eaf533bf6af81d3eb)
+  - Refresh of the site, making it a bit more fresh
+  - See [commit change]() or See [release history]()
 - 0.2
   - 07/05/23
   - Made General Changes
@@ -40,3 +38,4 @@ Here are acknowledgements from wherever I have borrowed code, and sites I have u
 - [README-Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
 - [50 Beautiful Website Color Schemes & CSS Hex Codes (2025)](https://hookagency.com/blog/website-color-schemes-2020)
 - [Social Media Icons](https://www.flaticon.com/free-icons/social-media)
+- [W3 Schools HTML Tutorial] (https://www.w3schools.com/html/default.asp)
